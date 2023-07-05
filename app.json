@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tesla-clone-app",
+    "slug": "tesla-clone-app"
+  }
+}
