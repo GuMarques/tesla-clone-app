@@ -4,4 +4,4 @@ Este projeto é um clone do aplicativo para controle de carros Tesla, desenvolvi
 
 # Liçenca
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+Este projeto está licenciado sob a [MIT License](https://github.com/GuMarques/tesla-clone-app/blob/main/LICENSE).
