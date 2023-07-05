@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "ES5",
+    "lib": ["ES2016.Array.Include", "ScriptHost", "DOM", "ES2015", "ES2016"],
+    "jsx": "react-native",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictBindCallApply": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "extends": "expo/tsconfig.base"
+}

@@ -1,14 +1,7 @@
-# Expo Router Example
+# Tesla App Clone
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Este projeto é um clone do aplicativo para controle de carros Tesla, desenvolvido usando React Native e Expo. O objetivo principal deste projeto é fornecer uma oportunidade de estudo e prática de desenvolvimento de aplicativos móveis usando tecnologias modernas.
 
-## 🚀 How to use
+# Liçenca
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
