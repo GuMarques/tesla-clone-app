@@ -6,13 +6,13 @@ Este projeto é um clone do aplicativo para controle de carros Tesla, desenvolvi
 
 A tela Home é a tela inicial do aplicativo Tesla Car Control. Ela exibe informações relevantes sobre o carro. Além disso, a tela Home também possui controles para interagir com o carro Tesla, como destravamento de portas e controle de janelas. No entanto, vale ressaltar que, nesse clone do aplicativo, apenas o controle de clima está funcional. Essa tela oferece uma visão geral do estado do veículo e permite ao usuário realizar algumas ações básicas de controle.
 
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" width="300" />
 
 ### Tela Climate
 
 A tela Climate é acessada a partir da tela Home, ao interagir com o controle de clima. Nessa tela, o usuário pode ajustar a temperatura interna do veículo, bem como controlar a velocidade dos ventiladores. É uma tela voltada para a configuração e controle do sistema de climatização do carro Tesla.
 
-![Climate Screen](screenshots/climate.png)
+<img src="screenshots/climate.png" width="300" />
 
 ## Tecnologias Utilizadas
 
