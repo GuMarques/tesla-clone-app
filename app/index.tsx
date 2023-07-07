@@ -1,3 +1,3 @@
-import Home from "../screens/home"
+import HomeScreen from "../screens/home"
 
-export default Home
+export default HomeScreen

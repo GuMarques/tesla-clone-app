@@ -5,7 +5,7 @@ import car from "../../assets/images/car.png";
 import menuOptions from "../../assets/menuOptions";
 import { Header, Controls, MenuItem } from "../../components";
 
-export default function Home() {
+export default function HomeScreen () {
   return (
     <SafeAreaView style={styles.safeview}>
       <StatusBar style="light" />

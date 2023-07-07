@@ -3,16 +3,16 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
     optionRow: {
         flexDirection: "row",
+        alignItems: "center",
         marginVertical: 20,
-        alignItems: "center"
     },
     optionText: {
         color: "#eee",
         fontSize: 18,
         fontWeight: "bold",
-        marginLeft: 10,
+        marginLeft: 10
     },
-    arrowicon: {
+    arrow: {
         marginLeft: "auto"
     }
 })
